@@ -7,6 +7,7 @@
 def my_function(food):
     for fruit in food:
         print(fruit)
+	print(fruit)
 
 if __name__ == '__main__':
 
