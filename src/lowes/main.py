@@ -11,7 +11,7 @@ def my_function(food):
 
 if __name__ == '__main__':
 
-    fruits = ["apple", "banana", "cherry", "pears", "kiwi"]
+    fruits = ["apple", "banana", "cherry", "pears", "kiwi", "mango"]
 
     my_function(fruits)
 
